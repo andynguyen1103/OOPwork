@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GCD_BaitapOOP
 {
+    /// <summary>
+    /// A class for student
+    /// </summary>
     class Student:Member
     {
         public string Class { get; set; }

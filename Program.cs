@@ -6,7 +6,10 @@ namespace GCD_BaitapOOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            StudentManaging studentManaging = new StudentManaging();
+            studentManaging.AddStudent();
+            studentManaging.AddStudent();
+            studentManaging.DisplayInfo();
         }
     }
 }

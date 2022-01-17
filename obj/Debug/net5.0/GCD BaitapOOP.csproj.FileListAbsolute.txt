@@ -1,0 +1,16 @@
+D:\IT\C#\GCDBaitapOOP\bin\Debug\net5.0\GCD BaitapOOP.exe
+D:\IT\C#\GCDBaitapOOP\bin\Debug\net5.0\GCD BaitapOOP.deps.json
+D:\IT\C#\GCDBaitapOOP\bin\Debug\net5.0\GCD BaitapOOP.runtimeconfig.json
+D:\IT\C#\GCDBaitapOOP\bin\Debug\net5.0\GCD BaitapOOP.runtimeconfig.dev.json
+D:\IT\C#\GCDBaitapOOP\bin\Debug\net5.0\GCD BaitapOOP.dll
+D:\IT\C#\GCDBaitapOOP\bin\Debug\net5.0\ref\GCD BaitapOOP.dll
+D:\IT\C#\GCDBaitapOOP\bin\Debug\net5.0\GCD BaitapOOP.pdb
+D:\IT\C#\GCDBaitapOOP\obj\Debug\net5.0\GCD BaitapOOP.csproj.AssemblyReference.cache
+D:\IT\C#\GCDBaitapOOP\obj\Debug\net5.0\GCD BaitapOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\C#\GCDBaitapOOP\obj\Debug\net5.0\GCD BaitapOOP.AssemblyInfoInputs.cache
+D:\IT\C#\GCDBaitapOOP\obj\Debug\net5.0\GCD BaitapOOP.AssemblyInfo.cs
+D:\IT\C#\GCDBaitapOOP\obj\Debug\net5.0\GCD BaitapOOP.csproj.CoreCompileInputs.cache
+D:\IT\C#\GCDBaitapOOP\obj\Debug\net5.0\GCD BaitapOOP.dll
+D:\IT\C#\GCDBaitapOOP\obj\Debug\net5.0\ref\GCD BaitapOOP.dll
+D:\IT\C#\GCDBaitapOOP\obj\Debug\net5.0\GCD BaitapOOP.pdb
+D:\IT\C#\GCDBaitapOOP\obj\Debug\net5.0\GCD BaitapOOP.genruntimeconfig.cache
